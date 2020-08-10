@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 
 
 [![hyena-edwin's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin&hide=contribs,prs)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin&count_private=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin&show_icons=true)
