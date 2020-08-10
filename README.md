@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin&count_private=true)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin&show_icons=true)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyena-edwin&show_icons=true&theme=dracula)
